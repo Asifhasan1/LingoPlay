@@ -12,6 +12,8 @@ struct ContentView: View {
         VStack(spacing: 20) {
             Spacer()
             Text("Welcome")
+            Text("Hello")
+            
             
                 .font(.custom("LavaTelugu-Bold", size: 70))
                 .foregroundColor(Color(red: 35/255, green: 77/255, blue: 112/255))
